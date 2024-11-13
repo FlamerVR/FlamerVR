@@ -1,0 +1,18 @@
+Low poly Fire Truck
+This package contains high quality low poly model of a Fire Truck.
+
+It is best for use in games and other real time applications as the textures are very detailed so it makes this model good enough for close-ups.
+
+All the pivots of tyres are set according to the developer’s requirement. 
+How it works:
+Double click on the package or simple drag the package in unity after importing the package a folder with the name of LOW POLY FIRE TRUCK is created in your asset folder. In this folder there is an asset folder and in this folder five other folder with the names of Materials, Models, Prefabs, Scene and textures.
+In the material folder different materials balls are placed by just clicking the one ball you can edit that particular material.
+In the models folder the models of low poly fire truck and is placed in the Fbx format you can just edit the particular fbx file in any 3d modeling software i.e to reduce or increase the meshes or to add model new part.
+In the prefabs folder the prefabs of low poly fire truck is placed this models is ready for development just drag in in your scene and use accordingly.
+In the scene folder a premade scene is placed you can just double click on it and use it.
+In the textures folder all the textures of the models are placed in the PNG format you can just open them in any editing software and change the texture of the model.
+
+Thank you
+Best regards
+Appricot Studio
+
